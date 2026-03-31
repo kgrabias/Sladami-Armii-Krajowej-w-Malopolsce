@@ -1,2 +1,2 @@
-# -ladami-Armii-Krajowej-w-Ma-opolsce
+# Śladami-Armii-Krajowej-w-Małopolsce
 Aplikacja dla Muzeum Armii Krajowej w Krakowie
